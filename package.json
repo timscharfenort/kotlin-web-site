@@ -46,7 +46,7 @@
     "url-loader": "1.1.2",
     "url-search-params": "0.6.1",
     "webpack": "4.28.4",
-    "webpack-cli": "3.2.1",
+    "webpack-cli": "3.3.5",
     "whatwg-fetch": "2.0.2"
   },
   "devDependencies": {
